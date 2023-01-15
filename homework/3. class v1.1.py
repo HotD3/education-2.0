@@ -20,7 +20,7 @@ class Nikolay():
             print(f"Your name {self.name} replaced to {new_name}")
             print(f"I am not {new_name}, i am Nikolay")
             self.name = 'Nikolay'
-__version__ = '1.0'
+__version__ = '1.1'
 name4 = Nikolay('Artur')
 name4.check_name()
 name1 = Nikolay('Nikola')
